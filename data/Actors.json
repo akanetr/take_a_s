@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"近藤エミカ","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"エミカ１","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kondo Emica","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"斎藤アミ","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"アミ１","traits":[],"initialLevel":1,"maxLevel":99,"name":"Saito Ami","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"松崎リサ","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"リサ１","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lisa Matsuzaki","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"鳴海ユメナ","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ユメナ１","traits":[],"initialLevel":1,"maxLevel":99,"name":"Narumi Yumena","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"!Flame","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
